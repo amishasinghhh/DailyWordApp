@@ -1,9 +1,9 @@
 <channel>
-	<title>&#54620;&#44397;&#50612; &#44592;&#52488;&#49324;&#51204; &#44060;&#48156; &#51648;&#50896;(Open API) - &#49324;&#51204; &#44160;&#49353;</title>
+	<title>한국어 기초사전 개발 지원(Open API) - 사전 검색</title>
 	<link>https://krdict.korean.go.kr</link>
-	<description>&#54620;&#44397;&#50612; &#44592;&#52488;&#49324;&#51204; &#44060;&#48156; &#51648;&#50896;(Open API) - &#49324;&#51204; &#44160;&#49353; &#44208;&#44284;</description>
-	<lastBuildDate>20220630115717</lastBuildDate> 
-	<total>46</total>
+	<description>한국어 기초사전 개발 지원(Open API) - 사전 검색 결과</description>
+	<lastBuildDate>20220630231132</lastBuildDate> 
+	<total>305</total>
 	<start>1</start>
 	<num>10</num>
 	
@@ -12,23 +12,23 @@
 	<item>
 		
 		
-		<target_code>62835</target_code>
-		<word>&#44163;</word>
-		<sup_no>0</sup_no>
+		<target_code>71358</target_code>
+		<word>집</word>
+		<sup_no>1</sup_no>
 		
 		
-		<pronunciation>&#44151;</pronunciation>
+		<pronunciation>집</pronunciation>
 		
 		
-		<word_grade>&#52488;&#44553;</word_grade>
+		<word_grade>초급</word_grade>
 		
-		<pos>&#51032;&#51316; &#47749;&#49324;</pos>
-		<link>https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=62835</link>
+		<pos>명사</pos>
+		<link>https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71358</link>
 		
 		
 		<sense>
 			<sense_order>1</sense_order>
-			<definition>&#51221;&#54869;&#55176; &#44032;&#47532;&#53412;&#45716; &#45824;&#49345;&#51060; &#51221;&#54644;&#51648;&#51648; &#50506;&#51008; &#49324;&#47932;&#51060;&#45208; &#49324;&#49892;.</definition>
+			<definition>사람이나 동물이 추위나 더위 등을 막고 그 속에 들어 살기 위해 지은 건물.</definition>
 			
 			
 			
@@ -57,15 +57,15 @@
 				
 				
 				
-				&#50689;&#50612;
+				영어
 				
 				
 				
 				
 				
 				</trans_lang>
-				<trans_word>something</trans_word>
-				<trans_dfn>A bound noun used to refer to a thing or fact that is not specified or determind by someone.</trans_dfn>
+				<trans_word>house</trans_word>
+				<trans_dfn>A structure built by a human or animal to serve as protection from cold, heat, etc., and as a place to live in.</trans_dfn>
 			</translation>
 			
 			
@@ -230,7 +230,7 @@
 		
 		<sense>
 			<sense_order>2</sense_order>
-			<definition>(&#45230;&#51105;&#50500; &#51060;&#47476;&#45716; &#47568;&#47196;) &#49324;&#46988; &#46608;&#45716; &#46041;&#47932;.</definition>
+			<definition>사람이나 동물이 살기 위해 지은 건물을 세는 단위.</definition>
 			
 			
 			
@@ -283,15 +283,15 @@
 				
 				
 				
-				&#50689;&#50612;
+				영어
 				
 				
 				
 				
 				
 				</trans_lang>
-				<trans_word />
-				<trans_dfn>(disparaging) A bound noun used to refer to a person or animal.</trans_dfn>
+				<trans_word>house</trans_word>
+				<trans_dfn>A unit of counting houses built by humans or animals to live in.</trans_dfn>
 			</translation>
 			
 			
@@ -432,7 +432,7 @@
 		
 		<sense>
 			<sense_order>3</sense_order>
-			<definition>&#44536; &#49324;&#46988;&#51032; &#49548;&#50976;&#47932;&#51076;&#51012; &#45208;&#53440;&#45236;&#45716; &#47568;.</definition>
+			<definition>가정을 이루고 생활하는 집안.</definition>
 			
 			
 			
@@ -509,15 +509,15 @@
 				
 				
 				
-				&#50689;&#50612;
+				영어
 				
 				
 				
 				
 				
 				</trans_lang>
-				<trans_word />
-				<trans_dfn>A bound noun used to indicate that something belongs to a certain person.</trans_dfn>
+				<trans_word>family</trans_word>
+				<trans_dfn>A group of people that form a family.</trans_dfn>
 			</translation>
 			
 			
@@ -634,7 +634,7 @@
 		
 		<sense>
 			<sense_order>4</sense_order>
-			<definition>&#50612;&#46500; &#54665;&#50948;&#45208; &#49345;&#53468;, &#51068;&#51012; &#45208;&#53440;&#45236;&#45716; &#47568;.</definition>
+			<definition>칼이나 총, 안경 등을 끼거나 담아서 보관할 수 있게 만든 것.</definition>
 			
 			
 			
@@ -735,15 +735,15 @@
 				
 				
 				
-				&#50689;&#50612;
+				영어
 				
 				
 				
 				
 				
 				</trans_lang>
-				<trans_word />
-				<trans_dfn>A bound noun used to indicate a certain act, situation, or accomplishment.</trans_dfn>
+				<trans_word>case; holster; sheath</trans_word>
+				<trans_dfn>An item that is made for the purpose of holding a sword, gun, glasses, etc.</trans_dfn>
 			</translation>
 			
 			
@@ -836,7 +836,7 @@
 		
 		<sense>
 			<sense_order>5</sense_order>
-			<definition>&#50612;&#46500; &#49324;&#49892;&#50640; &#45824;&#54620; &#54869;&#49888;&#51060;&#45208; &#44053;&#51312;&#47484; &#45208;&#53440;&#45236;&#45716; &#47568;.</definition>
+			<definition>바둑에서, 자기 돌로 에워싸 상대편 돌이 들어올 수 없게 한, 바둑판의 빈 자리.</definition>
 			
 			
 			
@@ -961,15 +961,15 @@
 				
 				
 				
-				&#50689;&#50612;
+				영어
 				
 				
 				
 				
 				
 				</trans_lang>
-				<trans_word />
-				<trans_dfn>A bound noun used to indicate one's confidence or emphasis regarding a certain fact.</trans_dfn>
+				<trans_word>controlled point; surrounded point</trans_word>
+				<trans_dfn>In the game of go, an empty space on the board that a player surrounds with his/her stones to keep his/her opponent's stones from entering.</trans_dfn>
 			</translation>
 			
 			
@@ -1038,7 +1038,7 @@
 		
 		<sense>
 			<sense_order>6</sense_order>
-			<definition>&#50500;&#51649; &#51068;&#50612;&#45208;&#51648; &#50506;&#51008; &#51068;&#50640; &#45824;&#54620; &#50696;&#49345;&#51060;&#45208; &#52628;&#52769;, &#44228;&#54925;&#51012; &#45208;&#53440;&#45236;&#45716; &#47568;.</definition>
+			<definition>바둑에서, 자기 돌로 에워싸 상대편 돌이 들어올 수 없게 한 빈 자리를 세는 단위.</definition>
 			
 			
 			
@@ -1187,15 +1187,15 @@
 				
 				
 				
-				&#50689;&#50612;
+				영어
 				
 				
 				
 				
 				
 				</trans_lang>
-				<trans_word />
-				<trans_dfn>A bound noun used to indicate one's prediction, guess, and plan regarding a thing that has not occurred yet.</trans_dfn>
+				<trans_word>controlled point; surrounded point</trans_word>
+				<trans_dfn>In the game of go, a unit of counting empty spaces on the board that a player surrounds with his/her stones to keep his/her opponent's stones from entering.</trans_dfn>
 			</translation>
 			
 			
@@ -1240,7 +1240,7 @@
 		
 		<sense>
 			<sense_order>7</sense_order>
-			<definition>&#47749;&#47161;&#51060;&#45208; &#51648;&#49884;&#51032; &#46907;&#51004;&#47196; &#47928;&#51109;&#51012; &#45149;&#47610;&#45716; &#47568;.</definition>
+			<definition>‘물건을 파는 가게’ 또는 ‘영업을 하는 가게’의 뜻을 나타내는 말.</definition>
 			
 			
 			
@@ -1413,15 +1413,15 @@
 				
 				
 				
-				&#50689;&#50612;
+				영어
 				
 				
 				
 				
 				
 				</trans_lang>
-				<trans_word />
-				<trans_dfn>A sentence-concluding bound noun carrying the sense of a command or instruction.</trans_dfn>
+				<trans_word>store; shop</trans_word>
+				<trans_dfn>The word that means 'a store that sells products' or 'a store that is in operation.'</trans_dfn>
 			</translation>
 			
 			
@@ -1455,19 +1455,23 @@
 	<item>
 		
 		
-		<target_code>79269</target_code>
-		<word>-&#44163;&#45796;</word>
-		<sup_no>0</sup_no>
+		<target_code>78367</target_code>
+		<word>집</word>
+		<sup_no>2</sup_no>
+		
+		<origin>輯</origin>
 		
 		
+		<pronunciation>집</pronunciation>
 		
-		<pos>&#50612;&#48120;</pos>
-		<link>https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=79269</link>
+		
+		<pos>의존 명사</pos>
+		<link>https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78367</link>
 		
 		
 		<sense>
 			<sense_order>1</sense_order>
-			<definition>(&#50500;&#51452;&#45230;&#52644;&#51004;&#47196;)(&#50715; &#47568;&#53804;&#47196;) &#44221;&#54744;&#51060;&#45208; &#51060;&#52824;&#47196; &#48372;&#50500; &#53952;&#47548;&#50630;&#51060; &#44536;&#47084;&#54624; &#44163;&#51076;&#51012; &#52628;&#52769;&#54616;&#44144;&#45208; &#45796;&#51664;&#54632;&#51012; &#45208;&#53440;&#45236;&#45716; &#51333;&#44208; &#50612;&#48120;.</definition>
+			<definition>잡지나 음악 앨범 등을 낼 때 그 발행 차례를 나타내는 단위.</definition>
 			
 			
 			
@@ -1496,15 +1500,15 @@
 				
 				
 				
-				&#50689;&#50612;
+				영어
 				
 				
 				
 				
 				
 				</trans_lang>
-				<trans_word>-geotda</trans_word>
-				<trans_dfn>(formal, highly addressee-lowering)(old-fashioned) A sentence-final ending used to indicate that the speaker guesses or assures himself/herself about something being true, when judging from his/her own experience, or with logic.</trans_dfn>
+				<trans_word>jip</trans_word>
+				<trans_dfn>A bound noun that serves as a unit for indicating the publication sequence of magazines, music CDs, etc.</trans_dfn>
 			</translation>
 			
 			
@@ -1538,23 +1542,23 @@
 	<item>
 		
 		
-		<target_code>44878</target_code>
-		<word>&#51060;&#44163;</word>
-		<sup_no>0</sup_no>
+		<target_code>88683</target_code>
+		<word>-집</word>
+		<sup_no>3</sup_no>
+		
+		<origin>集</origin>
 		
 		
-		<pronunciation>&#51060;&#44151;</pronunciation>
 		
+		<word_grade>고급</word_grade>
 		
-		<word_grade>&#52488;&#44553;</word_grade>
-		
-		<pos>&#45824;&#47749;&#49324;</pos>
-		<link>https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=44878</link>
+		<pos>접사</pos>
+		<link>https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88683</link>
 		
 		
 		<sense>
 			<sense_order>1</sense_order>
-			<definition>&#47568;&#54616;&#45716; &#49324;&#46988;&#50640;&#44172; &#44032;&#44620;&#51060; &#51080;&#44144;&#45208; &#47568;&#54616;&#45716; &#49324;&#46988;&#51060; &#49373;&#44033;&#54616;&#44256; &#51080;&#45716; &#44163;&#51012; &#44032;&#47532;&#53412;&#45716; &#47568;.</definition>
+			<definition>‘모아 엮은 책’의 뜻을 더하는 접미사.</definition>
 			
 			
 			
@@ -1583,477 +1587,15 @@
 				
 				
 				
-				&#50689;&#50612;
+				영어
 				
 				
 				
 				
 				
 				</trans_lang>
-				<trans_word>this</trans_word>
-				<trans_dfn>The word that refers to something that is close to the speaker or something that the speaker is thinking of.</trans_dfn>
-			</translation>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		</sense>
-		
-		<sense>
-			<sense_order>2</sense_order>
-			<definition>&#48148;&#47196; &#50526;&#50640;&#49436; &#51060;&#50556;&#44592;&#54620; &#45824;&#49345;&#51012; &#44032;&#47532;&#53412;&#45716; &#47568;.</definition>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			<translation>
-				<trans_lang>
-				
-				
-				
-				
-				
-				
-				&#50689;&#50612;
-				
-				
-				
-				
-				
-				</trans_lang>
-				<trans_word>this</trans_word>
-				<trans_dfn>A word that refers to something which was just mentioned.</trans_dfn>
-			</translation>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		</sense>
-		
-		<sense>
-			<sense_order>3</sense_order>
-			<definition>(&#45230;&#51105;&#50500; &#51060;&#47476;&#45716; &#47568;&#47196;) &#51060; &#49324;&#46988;.</definition>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			<translation>
-				<trans_lang>
-				
-				
-				
-				
-				
-				
-				&#50689;&#50612;
-				
-				
-				
-				
-				
-				</trans_lang>
-				<trans_word>you; he; she</trans_word>
-				<trans_dfn>(disparaging) This person</trans_dfn>
-			</translation>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		</sense>
-		
-		<sense>
-			<sense_order>4</sense_order>
-			<definition>(&#44480;&#50685;&#44172; &#51060;&#47476;&#45716; &#47568;&#47196;) &#51060; &#50500;&#51060;.</definition>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			<translation>
-				<trans_lang>
-				
-				
-				
-				
-				
-				
-				&#50689;&#50612;
-				
-				
-				
-				
-				
-				</trans_lang>
-				<trans_word>this</trans_word>
-				<trans_dfn>(endearing) This kid.</trans_dfn>
+				<trans_word>-jip</trans_word>
+				<trans_dfn>A suffix used to mean "a book made by collecting and binding something."</trans_dfn>
 			</translation>
 			
 			
@@ -2087,23 +1629,19 @@
 	<item>
 		
 		
-		<target_code>31953</target_code>
-		<word>&#44536;&#44163;</word>
-		<sup_no>0</sup_no>
+		<target_code>88682</target_code>
+		<word>-집</word>
+		<sup_no>2</sup_no>
 		
 		
-		<pronunciation>&#44536;&#44151;</pronunciation>
 		
-		
-		<word_grade>&#52488;&#44553;</word_grade>
-		
-		<pos>&#45824;&#47749;&#49324;</pos>
-		<link>https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31953</link>
+		<pos>접사</pos>
+		<link>https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88682</link>
 		
 		
 		<sense>
 			<sense_order>1</sense_order>
-			<definition>&#46307;&#45716; &#49324;&#46988;&#50640;&#44172; &#44032;&#44620;&#51060; &#51080;&#44144;&#45208; &#46307;&#45716; &#49324;&#46988;&#51060; &#49373;&#44033;&#54616;&#44256; &#51080;&#45716; &#44163;&#51012; &#44032;&#47532;&#53412;&#45716; &#47568;.</definition>
+			<definition>‘크기’ 또는 ‘부피’의 뜻을 더하는 접미사.</definition>
 			
 			
 			
@@ -2132,564 +1670,15 @@
 				
 				
 				
-				&#50689;&#50612;
+				영어
 				
 				
 				
 				
 				
 				</trans_lang>
-				<trans_word />
-				<trans_dfn>A pronoun used to indicate something close to the listener, or something the listener has in mind.</trans_dfn>
-			</translation>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		</sense>
-		
-		<sense>
-			<sense_order>2</sense_order>
-			<definition>&#50526;&#50640;&#49436; &#51060;&#48120; &#51060;&#50556;&#44592;&#54620; &#45824;&#49345;&#51012; &#44032;&#47532;&#53412;&#45716; &#47568;.</definition>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			<translation>
-				<trans_lang>
-				
-				
-				
-				
-				
-				
-				&#50689;&#50612;
-				
-				
-				
-				
-				
-				</trans_lang>
-				<trans_word />
-				<trans_dfn>A pronoun used to indicate the previously-mentioned object.</trans_dfn>
-			</translation>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		</sense>
-		
-		<sense>
-			<sense_order>3</sense_order>
-			<definition>(&#45230;&#51105;&#50500; &#51060;&#47476;&#45716; &#47568;&#47196;) &#44536; &#49324;&#46988;.</definition>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			<translation>
-				<trans_lang>
-				
-				
-				
-				
-				
-				
-				&#50689;&#50612;
-				
-				
-				
-				
-				
-				</trans_lang>
-				<trans_word />
-				<trans_dfn>(disparaging) The person.</trans_dfn>
-			</translation>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		</sense>
-		
-		<sense>
-			<sense_order>4</sense_order>
-			<definition>(&#44480;&#50685;&#44172; &#51060;&#47476;&#45716; &#47568;&#47196;) &#44536; &#50500;&#51060;.</definition>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			<translation>
-				<trans_lang>
-				
-				
-				
-				
-				
-				
-				&#50689;&#50612;
-				
-				
-				
-				
-				
-				</trans_lang>
-				<trans_word />
-				<trans_dfn>(endearing) The child.</trans_dfn>
-			</translation>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		</sense>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	</item>
-	
-	<item>
-		
-		
-		<target_code>58274</target_code>
-		<word>&#50500;&#47924;&#44163;</word>
-		<sup_no>0</sup_no>
-		
-		
-		<pronunciation>&#50500;&#720;&#47924;&#44151;</pronunciation>
-		
-		
-		<word_grade>&#52488;&#44553;</word_grade>
-		
-		<pos>&#47749;&#49324;</pos>
-		<link>https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58274</link>
-		
-		
-		<sense>
-			<sense_order>1</sense_order>
-			<definition>&#51221;&#54869;&#54616;&#44172; &#51221;&#54644;&#51648;&#51648; &#50506;&#51008; &#50612;&#46500; &#44163;.</definition>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			<translation>
-				<trans_lang>
-				
-				
-				
-				
-				
-				
-				&#50689;&#50612;
-				
-				
-				
-				
-				
-				</trans_lang>
-				<trans_word>anything</trans_word>
-				<trans_dfn>Something that is not definite.</trans_dfn>
+				<trans_word>-jip</trans_word>
+				<trans_dfn>A suffix used to mean a size or a volume.</trans_dfn>
 			</translation>
 			
 			
@@ -2734,7 +1723,7 @@
 		
 		<sense>
 			<sense_order>2</sense_order>
-			<definition>&#50612;&#46500; &#44163;&#51032; &#51312;&#44552;&#51060;&#45208; &#51068;&#48512;&#48516;.</definition>
+			<definition>‘그것이 생긴 자리’ 또는 ‘그것의 흔적’의 뜻을 더하는 접미사.</definition>
 			
 			
 			
@@ -2787,15 +1776,15 @@
 				
 				
 				
-				&#50689;&#50612;
+				영어
 				
 				
 				
 				
 				
 				</trans_lang>
-				<trans_word>anything</trans_word>
-				<trans_dfn>A little bit or part of something.</trans_dfn>
+				<trans_word>-jip</trans_word>
+				<trans_dfn>A suffix used to mean "the place where something formed" or "the trace of something."</trans_dfn>
 			</translation>
 			
 			
@@ -2829,23 +1818,19 @@
 	<item>
 		
 		
-		<target_code>31952</target_code>
-		<word>&#51200;&#44163;</word>
-		<sup_no>0</sup_no>
+		<target_code>88681</target_code>
+		<word>-집</word>
+		<sup_no>1</sup_no>
 		
 		
-		<pronunciation>&#51200;&#44151;</pronunciation>
 		
-		
-		<word_grade>&#52488;&#44553;</word_grade>
-		
-		<pos>&#45824;&#47749;&#49324;</pos>
-		<link>https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=31952</link>
+		<pos>접사</pos>
+		<link>https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=88681</link>
 		
 		
 		<sense>
 			<sense_order>1</sense_order>
-			<definition>&#47568;&#54616;&#45716; &#49324;&#46988;&#44284; &#46307;&#45716; &#49324;&#46988;&#51004;&#47196;&#48512;&#53552; &#47680;&#47532; &#51080;&#45716; &#44163;&#51012; &#44032;&#47532;&#53412;&#45716; &#47568;.</definition>
+			<definition>‘자기 집안에서 출가한 손아래 여자가 시집 사람임’의 뜻을 더하는 접미사.</definition>
 			
 			
 			
@@ -2874,15 +1859,575 @@
 				
 				
 				
-				&#50689;&#50612;
+				영어
 				
 				
 				
 				
 				
 				</trans_lang>
-				<trans_word>that</trans_word>
-				<trans_dfn>A word referring to something that is far away from the speaker and the listener.</trans_dfn>
+				<trans_word>-jip</trans_word>
+				<trans_dfn>A suffix used to mean "a person who is younger or lower in position than oneself in one's family being married to another family."</trans_dfn>
+			</translation>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		</sense>
+		
+		<sense>
+			<sense_order>2</sense_order>
+			<definition>‘남의 첩이나 기생’의 뜻을 더하는 접미사.</definition>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<translation>
+				<trans_lang>
+				
+				
+				
+				
+				
+				
+				영어
+				
+				
+				
+				
+				
+				</trans_lang>
+				<trans_word>-jip</trans_word>
+				<trans_dfn>A suffix used to mean "another person's concubine" or "a gisaeng, a female entertainer."</trans_dfn>
+			</translation>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		</sense>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	</item>
+	
+	<item>
+		
+		
+		<target_code>82377</target_code>
+		<word>집집</word>
+		<sup_no>0</sup_no>
+		
+		
+		<pronunciation>집찝</pronunciation>
+		
+		
+		<word_grade>고급</word_grade>
+		
+		<pos>명사</pos>
+		<link>https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=82377</link>
+		
+		
+		<sense>
+			<sense_order>1</sense_order>
+			<definition>하나하나의 집. 또는 모든 집.</definition>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<translation>
+				<trans_lang>
+				
+				
+				
+				
+				
+				
+				영어
+				
+				
+				
+				
+				
+				</trans_lang>
+				<trans_word>every house</trans_word>
+				<trans_dfn>Each and every house, or all houses. </trans_dfn>
+			</translation>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		</sense>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	</item>
+	
+	<item>
+		
+		
+		<target_code>37042</target_code>
+		<word>집안일</word>
+		<sup_no>0</sup_no>
+		
+		
+		<pronunciation>지반닐</pronunciation>
+		
+		
+		<word_grade>초급</word_grade>
+		
+		<pos>명사</pos>
+		<link>https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=37042</link>
+		
+		
+		<sense>
+			<sense_order>1</sense_order>
+			<definition>청소나 빨래, 요리 등 집 안에서 하는 일.</definition>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<translation>
+				<trans_lang>
+				
+				
+				
+				
+				
+				
+				영어
+				
+				
+				
+				
+				
+				</trans_lang>
+				<trans_word>housework; household chores</trans_word>
+				<trans_dfn>Work done in a household, such as the laundry, cleaning, cooking, etc.</trans_dfn>
+			</translation>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		</sense>
+		
+		<sense>
+			<sense_order>2</sense_order>
+			<definition>제사나 결혼식 등 집안에 관련된 일이나 행사.</definition>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<translation>
+				<trans_lang>
+				
+				
+				
+				
+				
+				
+				영어
+				
+				
+				
+				
+				
+				</trans_lang>
+				<trans_word>family events</trans_word>
+				<trans_dfn>Work or events related to the household such as ancestral rites, weddings, etc.</trans_dfn>
+			</translation>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		</sense>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	</item>
+	
+	<item>
+		
+		
+		<target_code>78393</target_code>
+		<word>집들이</word>
+		<sup_no>0</sup_no>
+		
+		
+		<pronunciation>집뜨리</pronunciation>
+		
+		
+		<word_grade>초급</word_grade>
+		
+		<pos>명사</pos>
+		<link>https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=78393</link>
+		
+		
+		<sense>
+			<sense_order>1</sense_order>
+			<definition>이사한 후에 친한 사람들을 불러 집을 구경시키고 음식을 대접하는 일.</definition>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<translation>
+				<trans_lang>
+				
+				
+				
+				
+				
+				
+				영어
+				
+				
+				
+				
+				
+				</trans_lang>
+				<trans_word>housewarming party</trans_word>
+				<trans_dfn>An event in which one invites one's close friends to a new house and serves food after moving.</trans_dfn>
+			</translation>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		</sense>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	</item>
+	
+	<item>
+		
+		
+		<target_code>71575</target_code>
+		<word>집다</word>
+		<sup_no>0</sup_no>
+		
+		
+		<pronunciation>집따</pronunciation>
+		
+		
+		<word_grade>중급</word_grade>
+		
+		<pos>동사</pos>
+		<link>https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71575</link>
+		
+		
+		<sense>
+			<sense_order>1</sense_order>
+			<definition>손가락이나 발가락으로 물건을 잡아서 들다.</definition>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<translation>
+				<trans_lang>
+				
+				
+				
+				
+				
+				
+				영어
+				
+				
+				
+				
+				
+				</trans_lang>
+				<trans_word>pick up</trans_word>
+				<trans_dfn>To grab something with one's fingers or toes and lift it.</trans_dfn>
 			</translation>
 			
 			
@@ -2951,7 +2496,7 @@
 		
 		<sense>
 			<sense_order>2</sense_order>
-			<definition>(&#45230;&#51105;&#50500; &#51060;&#47476;&#45716; &#47568;&#47196;) &#51200; &#49324;&#46988;.</definition>
+			<definition>젓가락이나 집게와 같은 도구로 물건을 잡아서 들다.</definition>
 			
 			
 			
@@ -3004,15 +2549,15 @@
 				
 				
 				
-				&#50689;&#50612;
+				영어
 				
 				
 				
 				
 				
 				</trans_lang>
-				<trans_word>that guy; that girl</trans_word>
-				<trans_dfn>(disparaging) That person.</trans_dfn>
+				<trans_word>pick up</trans_word>
+				<trans_dfn>To grab something with a tool such as chopsticks or pincers and lift it.</trans_dfn>
 			</translation>
 			
 			
@@ -3057,7 +2602,7 @@
 		
 		<sense>
 			<sense_order>3</sense_order>
-			<definition>(&#44480;&#50685;&#44172; &#51060;&#47476;&#45716; &#47568;&#47196;) &#51200; &#50500;&#51060;.</definition>
+			<definition>여럿 가운데에서 하나를 지적하여 가리키다.</definition>
 			
 			
 			
@@ -3134,15 +2679,15 @@
 				
 				
 				
-				&#50689;&#50612;
+				영어
 				
 				
 				
 				
 				
 				</trans_lang>
-				<trans_word>that kid</trans_word>
-				<trans_dfn>(endearing) That child.</trans_dfn>
+				<trans_word>point</trans_word>
+				<trans_dfn>To indicate one among many.</trans_dfn>
 			</translation>
 			
 			
@@ -3176,25 +2721,25 @@
 	<item>
 		
 		
-		<target_code>58420</target_code>
-		<word>&#48324;&#44163;</word>
+		<target_code>71577</target_code>
+		<word>집중</word>
 		<sup_no>0</sup_no>
 		
-		<origin>&#21029;&#44163;</origin>
+		<origin>集中</origin>
 		
 		
-		<pronunciation>&#48324;&#44151;</pronunciation>
+		<pronunciation>집쭝</pronunciation>
 		
 		
-		<word_grade>&#44256;&#44553;</word_grade>
+		<word_grade>중급</word_grade>
 		
-		<pos>&#47749;&#49324;</pos>
-		<link>https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=58420</link>
+		<pos>명사</pos>
+		<link>https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71577</link>
 		
 		
 		<sense>
 			<sense_order>1</sense_order>
-			<definition>&#55124;&#54616;&#51648; &#50506;&#51008; &#51060;&#49345;&#54620; &#44163;.</definition>
+			<definition>한곳을 중심으로 하여 모임. 또는 그렇게 모음.</definition>
 			
 			
 			
@@ -3223,15 +2768,15 @@
 				
 				
 				
-				&#50689;&#50612;
+				영어
 				
 				
 				
 				
 				
 				</trans_lang>
-				<trans_word>something; being particular</trans_word>
-				<trans_dfn>A thing that is strange, not common.</trans_dfn>
+				<trans_word>concentration</trans_word>
+				<trans_dfn>An act of gathering in a place, or an act of gathering things or people in a place.</trans_dfn>
 			</translation>
 			
 			
@@ -3276,7 +2821,7 @@
 		
 		<sense>
 			<sense_order>2</sense_order>
-			<definition>&#50668;&#47084; &#44032;&#51648; &#44163;.</definition>
+			<definition>한 가지 일에 모든 힘을 쏟아부음.</definition>
 			
 			
 			
@@ -3329,374 +2874,15 @@
 				
 				
 				
-				&#50689;&#50612;
+				영어
 				
 				
 				
 				
 				
 				</trans_lang>
-				<trans_word>many things</trans_word>
-				<trans_dfn>All kinds of things.</trans_dfn>
-			</translation>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		</sense>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	</item>
-	
-	<item>
-		
-		
-		<target_code>71129</target_code>
-		<word>&#51060;&#44163;&#51200;&#44163;</word>
-		<sup_no>0</sup_no>
-		
-		
-		<pronunciation>&#51060;&#44151;&#51788;&#44151;</pronunciation>
-		
-		
-		<word_grade>&#44256;&#44553;</word_grade>
-		
-		<pos>&#47749;&#49324;</pos>
-		<link>https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71129</link>
-		
-		
-		<sense>
-			<sense_order>1</sense_order>
-			<definition>&#48516;&#47749;&#54616;&#44172; &#51221;&#54644;&#51648;&#51648; &#50506;&#51008; &#50668;&#47084; &#44032;&#51648; &#49324;&#47932;&#51060;&#45208; &#51068;.</definition>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			<translation>
-				<trans_lang>
-				
-				
-				
-				
-				
-				
-				&#50689;&#50612;
-				
-				
-				
-				
-				
-				</trans_lang>
-				<trans_word>this and that; everything; this, that, and the other</trans_word>
-				<trans_dfn>Various things or matters that are not certainly defined. </trans_dfn>
-			</translation>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		</sense>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	</item>
-	
-	<item>
-		
-		
-		<target_code>71360</target_code>
-		<word>-&#45716; &#44163;</word>
-		<sup_no>0</sup_no>
-		
-		
-		
-		<pos>&#54408;&#49324; &#50630;&#51020;</pos>
-		<link>https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71360</link>
-		
-		
-		<sense>
-			<sense_order>1</sense_order>
-			<definition>&#47749;&#49324;&#44032; &#50500;&#45772; &#44163;&#51012; &#47928;&#51109;&#50640;&#49436; &#47749;&#49324;&#52376;&#47100; &#50416;&#51060;&#44172; &#54616;&#44144;&#45208; &#8216;&#51060;&#45796;&#8217; &#50526;&#50640; &#50416;&#51068; &#49688; &#51080;&#44172; &#54624; &#46412; &#50416;&#45716; &#54364;&#54788;.</definition>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			<translation>
-				<trans_lang>
-				
-				
-				
-				
-				
-				
-				&#50689;&#50612;
-				
-				
-				
-				
-				
-				</trans_lang>
-				<trans_word>-neun geot</trans_word>
-				<trans_dfn>An expression used to enable a non-noun word to be used as a noun in a sentence or to be used in front of '&#51060;&#45796;' (be).</trans_dfn>
-			</translation>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		</sense>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	</item>
-	
-	<item>
-		
-		
-		<target_code>71359</target_code>
-		<word>-&#12601; &#44163;</word>
-		<sup_no>0</sup_no>
-		
-		
-		
-		<pos>&#54408;&#49324; &#50630;&#51020;</pos>
-		<link>https://krdict.korean.go.kr/dicSearch/SearchView?ParaWordNo=71359</link>
-		
-		
-		<sense>
-			<sense_order>1</sense_order>
-			<definition>&#47749;&#47161;&#51060;&#45208; &#51648;&#49884;&#51032; &#51032;&#48120;&#47484; &#45208;&#53440;&#45236;&#47732;&#49436; &#47928;&#51109;&#51012; &#45149;&#47610;&#51012; &#46412; &#50416;&#45716; &#54364;&#54788;.</definition>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			<translation>
-				<trans_lang>
-				
-				
-				
-				
-				
-				
-				&#50689;&#50612;
-				
-				
-				
-				
-				
-				</trans_lang>
-				<trans_word>-l geot</trans_word>
-				<trans_dfn>An expression used to close a sentence by giving an order or instruction.</trans_dfn>
-			</translation>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		</sense>
-		
-		<sense>
-			<sense_order>2</sense_order>
-			<definition>&#47749;&#49324;&#44032; &#50500;&#45772; &#44163;&#51012; &#47928;&#51109;&#50640;&#49436; &#47749;&#49324;&#52376;&#47100; &#50416;&#51060;&#44172; &#54616;&#44144;&#45208; &#8216;&#51060;&#45796;&#8217; &#50526;&#50640; &#50416;&#51068; &#49688; &#51080;&#44172; &#54624; &#46412; &#50416;&#45716; &#54364;&#54788;.</definition>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			<translation>
-				<trans_lang>
-				
-				
-				
-				
-				
-				
-				&#50689;&#50612;
-				
-				
-				
-				
-				
-				</trans_lang>
-				<trans_word>-l geot</trans_word>
-				<trans_dfn>An expression used to enable a non-noun word to be used as a noun in the sentence or to be used in front of '&#51060;&#45796;' (be).</trans_dfn>
+				<trans_word>concentration; devotion</trans_word>
+				<trans_dfn>An act of putting all one's energy into one thing.</trans_dfn>
 			</translation>
 			
 			
