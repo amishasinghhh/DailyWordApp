@@ -14,7 +14,7 @@ corto
 cuánto 
 cuarto 
 dado 
-debido: debido a 
+debido
 definitivo 
 determinado 
 diario 
