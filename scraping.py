@@ -3,7 +3,7 @@ import requests
 import sys
 from bs4 import BeautifulSoup
 
-
+#hi
 URL = "https://www.topikguide.com/6000-most-common-korean-words-1"
 page = requests.get(URL)
 soup = BeautifulSoup(page.content, "html.parser")
