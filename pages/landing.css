@@ -1,0 +1,42 @@
+/* pink #F8C8C6
+light purple #9AA4EC
+dark purple #6474E5 */
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Black Han Sans', sans-serif;
+    font-size: min(15vh,7.5vw);
+    margin:0; padding:0;
+}
+
+h2 {
+    color: #9AA4EC;
+    text-align: center;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: min(7.5vh,3.75vw);
+    margin: 0; padding:0;
+}
+
+body {
+    margin-top:20vh;
+    margin-bottom:0;
+    padding:0;
+    background-color:#6474E5;
+}
+
+html {
+    border: 1.5vw solid #9AA4EC;
+    height: 94%;
+    margin:0; padding:0;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+    margin:0;padding:0;
+}
+
+a:hover {
+    color:white
+}
