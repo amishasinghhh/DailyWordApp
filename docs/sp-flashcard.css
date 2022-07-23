@@ -13,6 +13,13 @@ dark purple #6474E5 */
     margin-right: 2%
 }
 
+button {
+    all: unset;
+    margin-left: 17vw;
+    margin-right: 17vw;
+    float: right;
+}
+
 .left {
     width: 4vw;
     height: 5vw; 
@@ -24,7 +31,6 @@ dark purple #6474E5 */
     -ms-transform: scale(1.2);
     transform: scale(1.2);
     transition: 0.25s ease;
-
 }
 
 .right {
@@ -40,7 +46,6 @@ dark purple #6474E5 */
     -ms-transform: scale(1.2);
     transform: scale(1.2);
     transition: 0.25s ease;
-    
 }
 
 .pos {
