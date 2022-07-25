@@ -6,59 +6,7 @@ dark purple #6474E5 -->
 <html lang="en">
 <head>
     <script src="https://apis.google.com/js/api.js"></script>
-    <script>
-    /**
-     * Sample JavaScript code for sheets.spreadsheets.values.get
-     * See instructions for running APIs Explorer code samples locally:
-     * https://developers.google.com/explorer-help/code-samples#javascript
-     */
-    function kr_execute() {
-        num = Math.floor(Math.random() * 1475)
-        return gapi.client.sheets.spreadsheets.values.get({
-        "spreadsheetId": "1CzxWzQrFb7bGbDWWLj_v7kWySEBGcS4NZkApCZxyBtM",
-        "range": "A" + num + ":D" + num,
-        "dateTimeRenderOption": "SERIAL_NUMBER",
-        "majorDimension": "ROWS",
-        "valueRenderOption": "FORMATTED_VALUE"
-        })
-            .then(function(response) {
-                localStorage.setItem('kr_word', response.result["values"][0][0]);
-                localStorage.setItem('kr_pos', response.result["values"][0][1]);
-                localStorage.setItem('kr_definition', response.result["values"][0][2]);
-                localStorage.setItem('kr_sentence', response.result["values"][0][3]);
-                window.location = "kr-flashcard.html" 
-            },
-                function(err) { console.error("Execute error", err); });
-    }
-    function loadClient() {
-        gapi.client.setApiKey("AIzaSyA7yuO-d3GkigRjUD4v8ZU7cjeVIuk-Rns");
-        return gapi.client.load("https://sheets.googleapis.com/$discovery/rest?version=v4")
-            .then(function() { console.log("GAPI client loaded for API"); },
-                function(err) { console.error("Error loading GAPI client for API", err); });
-    }
-    // Make sure the client is loaded and sign-in is complete before calling this method.
-    function execute() {
-        num = Math.floor(Math.random() * 4699)
-        return gapi.client.sheets.spreadsheets.values.get({
-        "spreadsheetId": "1S2ZlZ5GDNzsVigoec0a4i9tYyZiW83SajYAZNR_0ZCU",
-        "range": "A" + num + ":D" + num,
-        "dateTimeRenderOption": "SERIAL_NUMBER",
-        "majorDimension": "ROWS",
-        "valueRenderOption": "FORMATTED_VALUE"
-        })
-            .then(function(response) {
-                localStorage.setItem('sp_word', response.result["values"][0][0]);
-                localStorage.setItem('sp_pos', response.result["values"][0][1]);
-                localStorage.setItem('sp_definition', response.result["values"][0][2]);
-                localStorage.setItem('sp_sentence', response.result["values"][0][3]);
-                window.location = "sp-flashcard.html" 
-            },
-                function(err) { console.error("Execute error", err); });
-    }
-    gapi.load("client:auth2", function() {
-        gapi.auth2.init({client_id: "301275820345-5972hb0n3ci0ndiuhsk50vj0p6qhn4cl.apps.googleusercontent.com", discoveryDocs: ['https://sheets.googleapis.com/$discovery/rest?version=v4'],});
-    });
-    </script>
+    <script src="index.js?t=1658767213758"></script>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
